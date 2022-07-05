@@ -25,7 +25,7 @@ This was a project to investigate historical Bitcoin arbitrage opportunites from
 To a month or day included in the dataset that you would like to see.
 Here is an example plot from the notebook. Note the .loc date selection.
 
-![Screenshot of the app.](Challenges/bitcoin_arbitrage/Resources/bitcoin_plot_screenshot.png)
+![Screenshot of the app.](Resources/bitcoin_plot_screenshot.png)
 
 ---
 
